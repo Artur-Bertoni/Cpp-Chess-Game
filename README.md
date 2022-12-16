@@ -1,4 +1,4 @@
-# jogo-xadrez-Cpp
-Um jogo de Xadrez desenvolvido na linguagem C++
+# Cpp-chessgame
+A chess game developed in the C++ language
 
-Esse projeto tem como objetivo o aperfeiçoamento da linguagem, portanto não está otimizado
+This project aims to improve the language, so it is not optimized
